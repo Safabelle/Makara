@@ -3,3 +3,27 @@ The recognition of cultural heritage, such as traditional food, is essential. It
 
 Based on this problem, that is the reason for us to make a Image recognition classification for Indonesia food called **MAKARA: Makanan Khas Nusantara** using the CNN algorithm to classify each Indonesia food. We hope this whill make it easier for tourist to know about Indonesian food varieties.
 
+## Hello Everyone!👋
+This is our repository for Product-Based Capstone Project.
+Our team consist of 7 people.
+## The Team
+|**Name**|**Bangkit ID**|**Learning Path**|
+|:--:|:--:|:--:|
+|Hana Lareina Aflah|M190BSX0196|Machine Learning|
+||:--:|:--:|:--:|
+|Marsyanda Salsa Nabila|M190BSX1494|Machine Learning|
+|:--:|:--:|:--:|
+|Safabelle Vandhya Bachtiar|M006BSX1323|Machine Learning|
+|:--:|:--:|:--:|
+|M. Faisal Basri|C392BSY3895|Cloud Computing|
+|:--:|:--:|:--:|
+|Francis Wibisono|C010BSY3533|Cloud Computing|
+|:--:|:--:|:--:|
+|Aditrya Dwi Aprianto|A621BSY2424|Android Developer|
+|:--:|:--:|:--:|
+|Nafis Artaruna Putra|A120BSY2937|Android Developer|
+
+## Theme
+Tourism, Cultural, and Hospitality
+
+## Refrences
