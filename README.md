@@ -10,17 +10,11 @@ Our team consist of 7 people.
 |**Name**|**Bangkit ID**|**Learning Path**|
 |:--:|:--:|:--:|
 |Hana Lareina Aflah|M190BSX0196|Machine Learning|
-||:--:|:--:|:--:|
 |Marsyanda Salsa Nabila|M190BSX1494|Machine Learning|
-|:--:|:--:|:--:|
 |Safabelle Vandhya Bachtiar|M006BSX1323|Machine Learning|
-|:--:|:--:|:--:|
 |M. Faisal Basri|C392BSY3895|Cloud Computing|
-|:--:|:--:|:--:|
 |Francis Wibisono|C010BSY3533|Cloud Computing|
-|:--:|:--:|:--:|
 |Aditrya Dwi Aprianto|A621BSY2424|Android Developer|
-|:--:|:--:|:--:|
 |Nafis Artaruna Putra|A120BSY2937|Android Developer|
 
 ## Theme
