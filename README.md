@@ -15,7 +15,7 @@ Our team consist of 7 people.
 | M. Faisal Basri | C392BSY3895 | Cloud Computing |
 | Francis Wibisono | C010BSY3533 | Cloud Computing |
 | Aditrya Dwi Aprianto | A621BSY2424 | Mobile Developer |
-| Nafis Artaruna Putra | A120BSY2937 | Android Developer |
+| Nafis Artaruna Putra | A120BSY2937 | Mobile Developer |
 
 
 ## Theme
